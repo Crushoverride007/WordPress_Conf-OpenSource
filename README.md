@@ -15,7 +15,7 @@
 here's how the `/var/www/html` looks after unzipping
 
 
-<img src="https://user-images.githubusercontent.com/45631812/160739096-0185b442-d3a3-47c8-a0c4-d9cfb4fa1387.png"/>
+<img src="https://user-images.githubusercontent.com/45631812/160739096-0185b442-d3a3-47c8-a0c4-d9cfb4fa1387.png" align="center"/>
 
 ### Configuration of Config files
 
