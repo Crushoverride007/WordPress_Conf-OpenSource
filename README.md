@@ -14,7 +14,7 @@
 
 here's how the `/var/www/html` looks after unzipping
 
-![](Pasted image 20220330002210.png)
+![](screens/Pasted image 20220330002210.png)
 
 ### Configuration of Config files
 
