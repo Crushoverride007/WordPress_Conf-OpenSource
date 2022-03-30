@@ -28,7 +28,7 @@ here's how the `/var/www/html` looks after unzipping
 
 Since we've already created a config file in course, we copy-pasted the same configuration and modified the content to our need, here's a screenshot of the update file `mywp.com.conf`
 
-![Pasted image 20220330003006](https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png =400x400)
+![Pasted image 20220330003006](https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png | width=400)
 
 
 #![](Pasted image 20220330003006.png|400)
