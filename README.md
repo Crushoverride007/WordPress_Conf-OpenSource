@@ -14,7 +14,7 @@
 
 here's how the `/var/www/html` looks after unzipping
 
-![[Pasted image 20220330002210.png]]
+![](Pasted image 20220330002210.png)
 
 ### Configuration of Config files
 
@@ -27,7 +27,7 @@ here's how the `/var/www/html` looks after unzipping
 
 Since we've already created a config file in course, we copy-pasted the same configuration and modified the content to our need, here's a screenshot of the update file `mywp.com.conf`
 
-![[Pasted image 20220330003006.png|400]]
+![](Pasted image 20220330003006.png|400)
 
 ### Configuration of Database
 
