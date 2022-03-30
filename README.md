@@ -29,8 +29,9 @@ here's how the `/var/www/html` looks after unzipping
 
 Since we've already created a config file in course, we copy-pasted the same configuration and modified the content to our need, here's a screenshot of the update file `mywp.com.conf`
 
-<img align="center" src="https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png " width="400" />
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png " width="400" />
+</p>
 
 ### Configuration of Database
 
@@ -54,9 +55,9 @@ BY 'Password123#@!';
 IDENTIFIED BY 'Password123#@!';
 
 ```
-
-![[Greenshot 2022-03-30 01.02.22.png]]
-
+<p align="center">
+![Greenshot 2022-03-30 01 02 22](https://user-images.githubusercontent.com/45631812/160740345-c9a6d305-93ab-418c-aef3-6ffedfb2fd3a.png)
+</p>
 
 
 - Creation of #Database
@@ -67,17 +68,26 @@ CREATE DATABASE wp;
 
 ```
 
-![[Greenshot 2022-03-30 01.03.44.png]]
+<p align="center">
+![Greenshot 2022-03-30 01 03 44](https://user-images.githubusercontent.com/45631812/160740455-5a852342-f41d-45f3-be5d-db15999e1dad.png)
+</p
+
 
 ### First-Sign on
 
 After installing and configuring the wordpress, we need now to sign in from the ==browser== to continue the setup of wordpress in our localhost
 
-> ![[Pasted image 20220330011357.png]]
+> 
+<p align="center">
+<img src="![Pasted image 20220330011357](https://user-images.githubusercontent.com/45631812/160740524-17e3574d-6790-4cfe-80be-c1e58318b328.png)" />
+</p>
+
 
 Choose the language you prefer and ==continue==
 
-![[Screen Shot 2022-03-28 at 18.15.09.png|250|200]]
+<p align="center">
+![Screen Shot 2022-03-28 at 18 15 09](https://user-images.githubusercontent.com/45631812/160740627-de1ef07b-cdce-464d-97e9-3f147e13d08d.png)
+</p>
 
 <br>
 
