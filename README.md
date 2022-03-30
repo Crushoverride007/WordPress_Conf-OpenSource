@@ -29,7 +29,7 @@ here's how the `/var/www/html` looks after unzipping
 
 Since we've already created a config file in course, we copy-pasted the same configuration and modified the content to our need, here's a screenshot of the update file `mywp.com.conf`
 
-<img src="https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png " width="400" />
+<img align="center" src="https://user-images.githubusercontent.com/45631812/160739367-234720bd-29d9-4ff6-ac78-fea6112363b8.png " width="400" />
 
 
 ### Configuration of Database
