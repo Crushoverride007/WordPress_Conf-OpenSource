@@ -13,9 +13,9 @@
 - With that being done, we need to move the zip file into the `/var/www/html` folder, and ==UNZIP== it
 
 here's how the `/var/www/html` looks after unzipping
-![Pasted image 20220330002210](https://user-images.githubusercontent.com/45631812/160739096-0185b442-d3a3-47c8-a0c4-d9cfb4fa1387.png)
 
-#![](Screens/Pasted image 20220330002210.png)
+
+![Pasted image 20220330002210](https://user-images.githubusercontent.com/45631812/160739096-0185b442-d3a3-47c8-a0c4-d9cfb4fa1387.png)
 
 ### Configuration of Config files
 
