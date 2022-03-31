@@ -92,9 +92,18 @@ Choose the language you prefer and ==continue==
 
 <br>
 
+<p align="center">
+<img src="" width=450/>
+</p>
+
+
 ![[Pasted image 20220330011650.png|450]]
 
 Provide them with the username, database name and password you've set whilst configuring the MySQL Database
+
+<p align="center">
+<img src="" width=450/>
+</p>
 
 ![[Pasted image 20220330011810.png|450]]
 
@@ -102,14 +111,28 @@ Provide them with the username, database name and password you've set whilst con
 
 To complete the setup, we need to fill last details
 
+<p align="center">
+<img src="" width=450/>
+</p>
+<p align="center">
+<img src="" width=450/>
+</p>
+
 ![[Screen Shot 2022-03-28 at 19.33.05.png|450]]
 ![[Screen Shot 2022-03-28 at 19.33.43.png|450]]
 
 - Congratulations we now have successfuly installed and configured our local WordPress
 
+<p align="center">
+<img src="" width=590/>
+</p>
 ![[Screen Shot 2022-03-28 at 19.35.50.png|590]]
 
 - It is also accessible from the ip address of the Virtual Machine
+
+<p align="center">
+<img src="" width=450/>
+</p>
 ![[Screen Shot 2022-03-28 at 19.40.00.png]]
 
 # Configuration of a WordPress-Theme
@@ -121,9 +144,21 @@ This is the default dashboard of our local WordPress
 
 - First things first, we need to change the default welcome page, to a configured/pre-made template
 
+<p align="center">
+<img src="" width=450/>
+</p>
+
 ![[Greenshot 2022-03-30 01.28.43.png]]
 
 - I afterwards add a new theme
+
+<p align="center">
+<img src="" width=450/>
+</p>
+
+<p align="center">
+<img src="" width=450/>
+</p>
 
 ![[Greenshot 2022-03-30 01.30.33.png]]
 
@@ -135,6 +170,10 @@ This is the default dashboard of our local WordPress
 - Before installing our theme, we need first to first a compatible theme to our needs, since this is a testing course we are free to take any themes we want, in my case i choose
 
 
+<p align="center">
+<img src="" width=450/>
+</p>
+
 ![[Pasted image 20220330013400.png]]
 
 This is a free theme, ==good practice==.
@@ -143,12 +182,20 @@ This is a free theme, ==good practice==.
 
 After brainstorming, choosing and downloading the WordPress theme, we have to upload it and install it 
 
+<p align="center">
+<img src="" width=450/>
+</p>
+
 ![[Greenshot 2022-03-30 01.35.47.png]]
 
 
 ### Problems
 
 - Whilst trying to install the theme I faced a problem of uploading the file
+
+<p align="center">
+<img src="" width=450/>
+</p>
 
 ![[Screen Shot 2022-03-29 at 23.35.12.png]]
 
@@ -158,29 +205,56 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 - Config file of PHP in Apache2 `/etc/php/7.4/apache2/php.ini`
 
 	- I opened the config file of php in apache2 
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	 ![[Screen Shot 2022-03-29 at 23.47.39.png|400|400]]
 	- Added the following lines at the bottom of the file
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	 ![[Screen Shot 2022-03-29 at 23.48.03.png|400|400]]
 	- Saved and Quit
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	 ![[Screen Shot 2022-03-29 at 23.48.24.png|400|400]]
 	
 	---
 	
 - Config file of PHP in WordPress folder `/var/www/html/mywp.com/php.ini`
 	- I opened the config file of php in WordPress folder
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	![[Pasted image 20220330014532.png|400|400]]
 	- Added the following lines at the top of the file
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	![[Screen Shot 2022-03-29 at 23.49.06.png|400|400]]
 	- Saved and Quit
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 	![[Screen Shot 2022-03-29 at 23.49.13.png|400|400]]
 	
 ---
 - Config file of .htaccess in WordPress folder `/var/www/html/mywp.com/.htaccess`
 	- I opened the config file of .htaccess in WordPress folder
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 		![[Pasted image 20220330015238.png|400|400]]
 	-  Added the following lines at the top of the file
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 		![[Screen Shot 2022-03-29 at 23.50.07.png|400|400]]
 	- Saved and Quit
+		<p align="center">
+		<img src="" width=450/>
+		</p>
 		![[Screen Shot 2022-03-29 at 23.50.14.png|400|400]]
 
 ---
@@ -195,14 +269,26 @@ With everything being configured, we need to restart the apache2 server with
 	
 After restarting the apache2 server, we need to continue install our theme
 
+<p align="center">
+<img src="" width=450/>
+</p>
+
 ![[Pasted image 20220330015646.png|450]]
 
 - While being redirected to the dashboard we need to activate the theme..
+
+<p align="center">
+<img src="" width=450/>
+</p>
 
 ![[Greenshot 2022-03-30 02.00.33.png]]
 
 ###### Finalization
 
 Congratulations we now have successfully installed, configured a WordPress Theme.
+
+<p align="center">
+<img src="" width=450/>
+</p>
 
 ![[Screen Shot 2022-03-29 at 23.54.17.png]]
