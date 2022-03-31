@@ -121,43 +121,34 @@ To complete the setup, we need to fill last details
 - It is also accessible from the ip address of the Virtual Machine
 
 <p align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/45631812/160961988-2357845e-6438-4d10-ace1-277d33417bc7.png" />
 </p>
-![[Screen Shot 2022-03-28 at 19.40.00.png]]
 
 # Configuration of a WordPress-Theme
 
 This is the default dashboard of our local WordPress 
 
 <p align="center">
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/45631812/160962034-39102caf-c20a-4df8-b6ce-f317f959f3a3.png"/>
 </p>
-
-![[Pasted image 20220330012604.png]]
 
 ### Theme Setup **PART I**
 
 - First things first, we need to change the default welcome page, to a configured/pre-made template
 
 <p align="center">
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/45631812/160962067-8bb8c1af-4239-4a0d-8195-fa2aa00e5ce0.png"/>
 </p>
-
-![[Greenshot 2022-03-30 01.28.43.png]]
 
 - I afterwards add a new theme
 
 <p align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/45631812/160962099-aedd0b67-820c-4cfb-8ea9-a31b9fc1fe89.png" />
 </p>
 
 <p align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/45631812/160962115-b9ff6b5d-d509-4516-9d0e-2ab8bca8c41d.png" />
 </p>
-
-![[Greenshot 2022-03-30 01.30.33.png]]
-
-![[Greenshot 2022-03-30 01.31.48.png]]
 
 
 ### Template choice
@@ -166,10 +157,8 @@ This is the default dashboard of our local WordPress
 
 
 <p align="center">
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/45631812/160962153-b4d557d7-1932-454e-9ab3-f6439d0b5ebe.png"/>
 </p>
-
-![[Pasted image 20220330013400.png]]
 
 This is a free theme, ==good practice==.
 
@@ -178,10 +167,8 @@ This is a free theme, ==good practice==.
 After brainstorming, choosing and downloading the WordPress theme, we have to upload it and install it 
 
 <p align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/45631812/160962180-468d905c-72a6-47a0-af4b-9f48db659394.png" />
 </p>
-
-![[Greenshot 2022-03-30 01.35.47.png]]
 
 
 ### Problems
@@ -189,10 +176,9 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 - Whilst trying to install the theme I faced a problem of uploading the file
 
 <p align="center">
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/45631812/160962226-cf3dfaba-765d-45ac-9db9-1efd1a82e2a6.png"/>
 </p>
 
-![[Screen Shot 2022-03-29 at 23.35.12.png]]
 
 --- 
 >  fixing phase
