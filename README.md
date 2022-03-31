@@ -187,7 +187,7 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 
 	- I opened the config file of php in apache2 
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962334-5d224760-09c4-4e33-a6e4-956906d26737.png" width=200 height=200/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962334-5d224760-09c4-4e33-a6e4-956906d26737.png" width=100 height=100/>
 		<img src="" width=200 height=200/>
 		</p>
 	 ![[Screen Shot 2022-03-29 at 23.47.39.png|400|400]]
