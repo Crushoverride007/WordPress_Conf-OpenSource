@@ -187,15 +187,15 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 
 	- I opened the config file of php in apache2 
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962334-5d224760-09c4-4e33-a6e4-956906d26737.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962334-5d224760-09c4-4e33-a6e4-956906d26737.png" width=300 height=60/>
 		</p>
 	- Added the following lines at the bottom of the file
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962771-f9b1a210-64f1-462b-8ec8-41b510589500.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962771-f9b1a210-64f1-462b-8ec8-41b510589500.png" width=300 height=100/>
 		</p>
 	- Saved and Quit
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962821-1e5e9c7a-9c2a-4421-9777-2343a10c11bc.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962821-1e5e9c7a-9c2a-4421-9777-2343a10c11bc.png" width=300 height=50/>
 		</p>
 	
 	---
