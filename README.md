@@ -207,26 +207,26 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 		</p>
 	- Added the following lines at the top of the file
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962922-bcd51e2a-b7e0-4c77-9deb-4d62a9fb99dd.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962922-bcd51e2a-b7e0-4c77-9deb-4d62a9fb99dd.png" width=300 height=100/>
 		</p>
 	- Saved and Quit
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962963-0ca01f9d-9f5e-47eb-85f5-4732b3a38155.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962963-0ca01f9d-9f5e-47eb-85f5-4732b3a38155.png" width=300 height=50/>
 		</p>
 	
 ---
 - Config file of .htaccess in WordPress folder `/var/www/html/mywp.com/.htaccess`
 	- I opened the config file of .htaccess in WordPress folder
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160963006-a8fc68e8-fb3e-4048-8c85-74bb1ff82669.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963006-a8fc68e8-fb3e-4048-8c85-74bb1ff82669.png" width=300 height=60/>
 		</p>
 	-  Added the following lines at the top of the file
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160963030-e302a67b-2dc0-4b07-a49f-b4db054facd1.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963030-e302a67b-2dc0-4b07-a49f-b4db054facd1.png" width=300 height=100/>
 		</p>
 	- Saved and Quit
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160963078-b35af856-f056-4e8a-a694-d35482f16089.png" width=300 height=70/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963078-b35af856-f056-4e8a-a694-d35482f16089.png" width=300 height=50/>
 		</p>
 
 ---
