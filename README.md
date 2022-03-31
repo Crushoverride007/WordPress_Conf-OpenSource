@@ -56,7 +56,7 @@ IDENTIFIED BY 'Password123#@!';
 
 ```
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45631812/160740345-c9a6d305-93ab-418c-aef3-6ffedfb2fd3a.png)" />
+<img src="https://user-images.githubusercontent.com/45631812/160740345-c9a6d305-93ab-418c-aef3-6ffedfb2fd3a.png" />
 </p>
 
 
