@@ -69,7 +69,8 @@ CREATE DATABASE wp;
 ```
 
 <p align="center">
-![Greenshot 2022-03-30 01 03 44](https://user-images.githubusercontent.com/45631812/160740455-5a852342-f41d-45f3-be5d-db15999e1dad.png)
+<img src="
+https://user-images.githubusercontent.com/45631812/160740455-5a852342-f41d-45f3-be5d-db15999e1dad.png"/>
 </p
 
 
@@ -79,14 +80,14 @@ After installing and configuring the wordpress, we need now to sign in from the 
 
 > 
 <p align="center">
-<img src="![Pasted image 20220330011357](https://user-images.githubusercontent.com/45631812/160740524-17e3574d-6790-4cfe-80be-c1e58318b328.png)" />
+<img src="https://user-images.githubusercontent.com/45631812/160740524-17e3574d-6790-4cfe-80be-c1e58318b328.png" />
 </p>
 
 
 Choose the language you prefer and ==continue==
 
 <p align="center">
-![Screen Shot 2022-03-28 at 18 15 09](https://user-images.githubusercontent.com/45631812/160740627-de1ef07b-cdce-464d-97e9-3f147e13d08d.png)
+<img src="https://user-images.githubusercontent.com/45631812/160740627-de1ef07b-cdce-464d-97e9-3f147e13d08d.png"/>
 </p>
 
 <br>
