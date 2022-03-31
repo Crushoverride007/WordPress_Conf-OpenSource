@@ -1,6 +1,6 @@
 ==Before any installation or configuration of wordpress we need to make sure we have the LAMP stack installed==
 
-> Table of content
+<h1> Table of content </h1>
 
 - [Installation of WordPress](#installation-of-wordpress)
 		- [Installation of wordpress](#installation-of-wordpress-1)
