@@ -1,5 +1,27 @@
 ==Before any installation or configuration of wordpress we need to make sure we have the LAMP stack installed==
 
+Table of Contents - [Installation of WordPress](#installation-of-wordpress)
+		- [Installation of wordpress](#installation-of-wordpress-1)
+		- [Configuration of Config files](#configuration-of-config-files)
+		- [Configuration of Database](#configuration-of-database)
+		- [First-Sign on](#first-sign-on)
+		- [Initiat First Sign-on](#initiat-first-sign-on)
+- [Installation of WordPress](#installation-of-wordpress)
+		- [Installation of wordpress](#installation-of-wordpress-1)
+		- [Configuration of Config files](#configuration-of-config-files)
+		- [Configuration of Database](#configuration-of-database)
+		- [First-Sign on](#first-sign-on)
+		- [Initiat First Sign-on](#initiat-first-sign-on)
+- [Configuration of a WordPress-Theme](#configuration-of-a-wordpress-theme)
+		- [Theme Setup **PART I**](#theme-setup-part-i)
+		- [Template choice](#template-choice)
+		- [Theme Setup **PART II**](#theme-setup-part-ii)
+		- [Problems](#problems)
+		- [Theme Setup **PART III**](#theme-setup-part-iii)
+					- [Finalization](#finalization)
+
+
+
 # Installation of WordPress
 ### Installation of wordpress
 
