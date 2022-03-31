@@ -188,56 +188,46 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 	- I opened the config file of php in apache2 
 		<p align="center">
 		<img src="https://user-images.githubusercontent.com/45631812/160962334-5d224760-09c4-4e33-a6e4-956906d26737.png" width=300 height=70/>
-		<img src="" width=200 height=200/>
 		</p>
-	 ![[Screen Shot 2022-03-29 at 23.47.39.png|400|400]]
 	- Added the following lines at the bottom of the file
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962771-f9b1a210-64f1-462b-8ec8-41b510589500.png" width=300 height=70/>
 		</p>
-	 ![[Screen Shot 2022-03-29 at 23.48.03.png|400|400]]
 	- Saved and Quit
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962821-1e5e9c7a-9c2a-4421-9777-2343a10c11bc.png" width=300 height=70/>
 		</p>
-	 ![[Screen Shot 2022-03-29 at 23.48.24.png|400|400]]
 	
 	---
 	
 - Config file of PHP in WordPress folder `/var/www/html/mywp.com/php.ini`
 	- I opened the config file of php in WordPress folder
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962861-11c5fdd7-5b35-4799-ab03-5f03283d53a2.png" width=300 height=70/>
 		</p>
-	![[Pasted image 20220330014532.png|400|400]]
 	- Added the following lines at the top of the file
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962922-bcd51e2a-b7e0-4c77-9deb-4d62a9fb99dd.png" width=300 height=70/>
 		</p>
-	![[Screen Shot 2022-03-29 at 23.49.06.png|400|400]]
 	- Saved and Quit
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962963-0ca01f9d-9f5e-47eb-85f5-4732b3a38155.png" width=300 height=70/>
 		</p>
-	![[Screen Shot 2022-03-29 at 23.49.13.png|400|400]]
 	
 ---
 - Config file of .htaccess in WordPress folder `/var/www/html/mywp.com/.htaccess`
 	- I opened the config file of .htaccess in WordPress folder
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963006-a8fc68e8-fb3e-4048-8c85-74bb1ff82669.png" width=300 height=70/>
 		</p>
-		![[Pasted image 20220330015238.png|400|400]]
 	-  Added the following lines at the top of the file
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963030-e302a67b-2dc0-4b07-a49f-b4db054facd1.png" width=300 height=70/>
 		</p>
-		![[Screen Shot 2022-03-29 at 23.50.07.png|400|400]]
 	- Saved and Quit
 		<p align="center">
-		<img src="" width=400 height=400/>
+		<img src="https://user-images.githubusercontent.com/45631812/160963078-b35af856-f056-4e8a-a694-d35482f16089.png" width=300 height=70/>
 		</p>
-		![[Screen Shot 2022-03-29 at 23.50.14.png|400|400]]
 
 ---
 		
@@ -252,25 +242,21 @@ With everything being configured, we need to restart the apache2 server with
 After restarting the apache2 server, we need to continue install our theme
 
 <p align="center">
-<img src="" width=450/>
+<img src="https://user-images.githubusercontent.com/45631812/160963119-ba76afde-743c-438c-a9bf-ed5f22310747.png" width=450/>
 </p>
 
-![[Pasted image 20220330015646.png|450]]
 
 - While being redirected to the dashboard we need to activate the theme..
 
 <p align="center">
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/45631812/160963166-149158b2-f35b-41cc-bf4a-58fc18eb159a.png"/>
 </p>
-
-![[Greenshot 2022-03-30 02.00.33.png]]
 
 ###### Finalization
 
 Congratulations we now have successfully installed, configured a WordPress Theme.
 
 <p align="center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/45631812/160963206-17c8bf8b-a278-4464-98e6-fe613cf4bdb4.png" />
 </p>
 
-![[Screen Shot 2022-03-29 at 23.54.17.png]]
