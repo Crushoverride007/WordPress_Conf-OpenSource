@@ -203,7 +203,7 @@ After brainstorming, choosing and downloading the WordPress theme, we have to up
 - Config file of PHP in WordPress folder `/var/www/html/mywp.com/php.ini`
 	- I opened the config file of php in WordPress folder
 		<p align="center">
-		<img src="https://user-images.githubusercontent.com/45631812/160962861-11c5fdd7-5b35-4799-ab03-5f03283d53a2.png" width=300 height=100/>
+		<img src="https://user-images.githubusercontent.com/45631812/160962861-11c5fdd7-5b35-4799-ab03-5f03283d53a2.png" width=300 height=120/>
 		</p>
 	- Added the following lines at the top of the file
 		<p align="center">
