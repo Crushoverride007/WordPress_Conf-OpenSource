@@ -69,8 +69,7 @@ CREATE DATABASE wp;
 ```
 
 <p align="center">
-<img src="
-https://user-images.githubusercontent.com/45631812/160740455-5a852342-f41d-45f3-be5d-db15999e1dad.png"/>
+<img src="https://user-images.githubusercontent.com/45631812/160740455-5a852342-f41d-45f3-be5d-db15999e1dad.png"/>
 </p
 
 
@@ -94,14 +93,14 @@ Choose the language you prefer and ==continue==
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45631812/160961344-6b18bc60-8e98-4d14-ac01-dfcca23b9599.png
-" width=450/>
+" width="450"/>
 </p>
 
 Provide them with the username, database name and password you've set whilst configuring the MySQL Database
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45631812/160961435-e79e08ef-0d4d-4c1d-a2b8-db764b616b52.png
-" width=450/>
+" width="450"/>
 </p>
 
 ### Initiat First Sign-on 
@@ -110,18 +109,18 @@ To complete the setup, we need to fill last details
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45631812/160961488-c45d431b-9295-406a-a601-4a6ae1efad79.png
-" width=450/>
+" width="450"/>
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45631812/160961507-4c644b86-f9ca-45c0-9121-9508d3cb84e0.png
-" width=450/>
+" width="450"/>
 </p>
 
 - Congratulations we now have successfuly installed and configured our local WordPress
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45631812/160961555-3e2d59ec-7c1c-4a41-a7f7-5b0e9b7becbb.png
-" width=590/>
+" width="590"/>
 </p>
 
 - It is also accessible from the ip address of the Virtual Machine
